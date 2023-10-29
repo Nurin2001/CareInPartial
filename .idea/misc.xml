@@ -6,8 +6,13 @@
         <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/drawable/custom_edittext.xml" value="0.1485" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/drawable/login_btn.xml" value="0.1485" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/drawable/new_acc_btn.xml" value="0.1485" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/activity_help_me_buy.xml" value="0.1" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/fragment_help_me_buy.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/pharmacy_row.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/recycler_row.xml" value="0.26510416666666664" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/CareInLogin/app/src/main/res/layout/store_row.xml" value="0.26510416666666664" />
       </map>
     </option>
   </component>
