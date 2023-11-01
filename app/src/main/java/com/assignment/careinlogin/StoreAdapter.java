@@ -51,10 +51,10 @@ public class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.RecyclerView
 
         public RecyclerViewHolder(@NonNull View itemView) {
             super(itemView);
-            storeName = itemView.findViewById(R.id.pharmacy_name_rec);
-            distance = itemView.findViewById(R.id.pharmacy_distance_rec);
-            rating = itemView.findViewById(R.id.pharmacy_rate_rec);
-            storeImg = itemView.findViewById(R.id.pharmacy_img_rec);
+            storeName = itemView.findViewById(R.id.pharmacy_name_tv);
+            distance = itemView.findViewById(R.id.pharmacy_distance_tv);
+            rating = itemView.findViewById(R.id.pharmacy_rate_tv);
+            storeImg = itemView.findViewById(R.id.pharmacy_imgview);
         }
     }
 }

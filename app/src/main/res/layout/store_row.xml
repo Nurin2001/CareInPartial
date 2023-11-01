@@ -15,7 +15,7 @@
         app:cardCornerRadius="10dp">
 
         <ImageView
-            android:id="@+id/store_img_rec"
+            android:id="@+id/store_imgview"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_launcher_foreground"/>
@@ -30,18 +30,18 @@
         android:layout_marginTop="5dp">
 
         <TextView
-            android:id="@+id/store_name_rec"
+            android:id="@+id/store_name_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Store Name"
             android:textStyle="bold"/>
         <TextView
-            android:id="@+id/store_distance_rec"
+            android:id="@+id/store_distance_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Distance"/>
         <TextView
-            android:id="@+id/store_rate_rec"
+            android:id="@+id/store_rate_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Rating"/>

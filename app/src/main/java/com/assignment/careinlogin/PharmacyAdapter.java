@@ -51,10 +51,10 @@ public class PharmacyAdapter extends RecyclerView.Adapter<PharmacyAdapter.Recycl
 
         public RecyclerViewHolder(@NonNull View itemView) {
             super(itemView);
-            pharmacyName = itemView.findViewById(R.id.pharmacy_name_rec);
-            distance = itemView.findViewById(R.id.pharmacy_distance_rec);
-            rating = itemView.findViewById(R.id.pharmacy_rate_rec);
-            pharmacyImg = itemView.findViewById(R.id.pharmacy_img_rec);
+            pharmacyName = itemView.findViewById(R.id.pharmacy_name_tv);
+            distance = itemView.findViewById(R.id.pharmacy_distance_tv);
+            rating = itemView.findViewById(R.id.pharmacy_rate_tv);
+            pharmacyImg = itemView.findViewById(R.id.pharmacy_imgview);
         }
     }
 }
